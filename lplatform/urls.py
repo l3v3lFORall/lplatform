@@ -8,4 +8,5 @@ urlpatterns = [
     # path('what/',include('otherwebsite.urls')),
     # import first like line-2
     # re_path('what/', include('otherwebsite.urls')),
+    url('say/',views.runoob)
 ]

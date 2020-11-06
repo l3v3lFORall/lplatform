@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -24,9 +25,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\Documents\lplatform\lplatform" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="lplatform" type="Python.DjangoServer" factoryName="Django server">
@@ -62,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604643868518</updated>
-      <workItem from="1604643869702" duration="1181000" />
+      <workItem from="1604643869702" duration="7491000" />
     </task>
     <servers />
   </component>
@@ -74,21 +81,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1390" y="351" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604644088491" />
-    <state width="1340" height="282" key="GridCell.Tab.0.bottom" timestamp="1604644370839">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1604652354971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604644370839" />
-    <state width="1340" height="282" key="GridCell.Tab.0.center" timestamp="1604644370839">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604652354971" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1604652354971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="282" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604644370839" />
-    <state width="1340" height="282" key="GridCell.Tab.0.left" timestamp="1604644370839">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604652354971" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1604652354971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="282" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604644370839" />
-    <state width="1340" height="282" key="GridCell.Tab.0.right" timestamp="1604644370839">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604652354971" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1604652354971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604644370839" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604652354971" />
+    <state x="1103" y="230" key="search.everywhere.popup" timestamp="1604647897663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" key="search.everywhere.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1604647897663" />
   </component>
 </project>
